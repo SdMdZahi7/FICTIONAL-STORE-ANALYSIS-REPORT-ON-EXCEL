@@ -20,7 +20,7 @@ This project delves into the operations of a fictional retail store, transformin
 7. **Interactive Decision-Making**: Enable stakeholders to explore data dynamically with slicers and filters for tailored insights.  
 
 ---
-
+---
 ## **Dataset Details** 📁  
 
 The dataset was sourced from Kaggle: [Sales Forecasting Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting).  
@@ -47,12 +47,13 @@ The dataset was sourced from Kaggle: [Sales Forecasting Dataset](https://www.kag
 - **Profit**: The profit earned from the order.  
 
 ---
+---
+## **PIVOT TABLES ** 🔢
 
-## **PIVOT TABLEs ** 🔢
+<H4> Pivoting to Success: Unveiling Retail Trends! 🎯<br/>
+Explore dynamic insights with pivot tables showcasing year-wise sales, profit trends, and top-performing categories, regions, and products. A data-driven approach to smarter retail decisions at your fingertips 📈🛍️"</H4>
+
 ![pivot 1](https://github.com/user-attachments/assets/45b09720-1b0e-4a41-8c16-c2dd3c2cb804)
 ![Pivot 2](https://github.com/user-attachments/assets/fe7dd48d-ab55-4462-8084-31cd5863ad0c)
-"Pivoting to Success: Unveiling Retail Trends! 🎯
-Explore dynamic insights with pivot tables showcasing year-wise sales, profit trends, and top-performing categories, regions, and products. A data-driven approach to smarter retail decisions at your fingertips! 📈🛍️"
-
-
+---
 

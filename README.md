@@ -108,7 +108,6 @@ The dataset was sourced from Kaggle: [Sales Forecasting Dataset](https://www.kag
 ---
 
 ### **Why This Dashboard Matters**  📈🔍
-
 1. **Empowering Sales Strategies** 
    - **Purpose**: Provides a clear view of sales trends, enabling businesses to optimize strategies and focus on high-performing products.  
    - **Impact**: Drives revenue growth and customer satisfaction through data-backed decisions.  
@@ -131,7 +130,6 @@ The dataset was sourced from Kaggle: [Sales Forecasting Dataset](https://www.kag
 ---
 
 ### **Conclusion** 🌟
-
 The **Fictional Store Analysis Dashboard** is a powerful example of how raw data can be transformed into actionable insights.  
 It offers a **comprehensive view** of key metrics, including sales, profitability, and regional performance.  
 

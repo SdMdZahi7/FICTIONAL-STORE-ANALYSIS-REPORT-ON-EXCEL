@@ -20,7 +20,6 @@ This project delves into the operations of a fictional retail store, transformin
 7. **Interactive Decision-Making**: Enable stakeholders to explore data dynamically with slicers and filters for tailored insights.  
 
 ---
----
 ## **Dataset Details** 📁  
 
 The dataset was sourced from Kaggle: [Sales Forecasting Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting).  
@@ -46,7 +45,6 @@ The dataset was sourced from Kaggle: [Sales Forecasting Dataset](https://www.kag
 - **Discount**: The discount applied to the order.  
 - **Profit**: The profit earned from the order.  
 
----
 ---
 ## **PIVOT TABLES ** 🔢
 
